@@ -1,6 +1,5 @@
-## Hi there 👋
 
-Archcraft is an Arch-based rolling release distribution aimed at users who care about keeping their computers minimalist. It comes with a variety of lightweight applications, The i3 window manager is installed by default.
+Archi3 is an Arch-based rolling release distribution aimed at users who care about keeping their computers minimalist. It comes with a variety of lightweight applications, The i3 window manager is installed by default.
 
 <!--
 
