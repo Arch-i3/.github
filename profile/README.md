@@ -1,4 +1,6 @@
-![Screenshot_Archi3_2025-02-14_10:02:36](https://github.com/user-attachments/assets/85ad80f6-e4ec-4dfc-8f63-da814362a575)
+<p align="center">
+<img width="400" align="center" src=https://github.com/Arch-i3/Archi3-Artwork/blob/main/screenshots/Archi3.png  />
+</p>
 
 Archi3 is an Arch-based rolling release distribution aimed at users who care about keeping their computers minimalist. It comes with a variety of lightweight applications, The i3 window manager is installed by default.
 
